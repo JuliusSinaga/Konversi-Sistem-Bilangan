@@ -4,7 +4,7 @@ Pada program ini, kita melakukan input untuk bilangan bulat dan melakukan konver
 
 
 ## Konversi Desimal ke Binary
-Dalam mengkonversi nilai desimal ke binary menggunakan bahasa c, kita dapat menggunakan fungsi ---- untuk melakukan konversi desimal ke binary(basis 2). Sebagai contoh :
+Dalam mengkonversi nilai desimal ke binary menggunakan bahasa c, kita dapat menggunakan fungsi rekursif untuk melakukan konversi desimal ke binary(basis 2). Sebagai contoh :
 **Input**:
 ```bash
 Bilangan Desimal : 25
